@@ -1,4 +1,4 @@
-package edu.buffalo.cse116;
+package code;
 
 import java.util.ArrayList;
 
